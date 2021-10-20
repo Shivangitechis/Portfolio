@@ -1,3 +1,7 @@
+div#sfsi_floater {
+  z-index: 999999!important;
+  
+  }
 body {
   font-family: monospace;
 }
