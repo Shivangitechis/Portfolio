@@ -75,6 +75,8 @@ main .left .social-button {
   display: flex;
   width: 30%;
   justify-content: space-around;
+  margin-left: 5%;
+  gap: 4%;
   
 }
 
